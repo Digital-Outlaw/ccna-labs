@@ -16,6 +16,6 @@ Each lab folder contains:
 
 # Lab Index
 
-- []()
+- 01 - [Basic Topology](https://github.com/Digital-Outlaw/ccna-labs/blob/06f878887fdde21039ef16ddda12f7c64096831b/labs/01%20-%20Basic%20Topology/README.md)
 
 *(More labs will be added as I progress.)*
